@@ -45,10 +45,3 @@ buttons.addEventListener("click",(event)=>{
 
 }
 ) ;
-
-// const str=display.value;
-// const lastChar=str[str.length-1];
-// const operator=["+","/","-","*"];
-// for(let i=0;i<operator.length;i++){
-//     if (lastChar===operator[i])
-// }
